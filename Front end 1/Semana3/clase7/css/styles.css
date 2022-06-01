@@ -1,0 +1,47 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+    padding: 0px;
+}
+div{
+  text-align: center;
+}
+h1 {
+    background-color: #C4C4C4;
+    color: #005677;
+    text-align: center;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 84.69%;
+    padding: 5px;
+}
+h3 {
+    background-color: #C4C4C4;
+    color: #005677;
+    padding: 5px;
+}
+ul span {
+    font-style: italic;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 84.69%;
+}
+dt {
+    margin-left: 25px;
+}
+dl span {   
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 84.69%;
+}
+dd {
+    padding-left: 60px;
+}
+footer {
+    background-color: #005677;
+    color:  #FFFFFF;
+    text-align: center;
+    font-size: 20px;
+}
